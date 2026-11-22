@@ -1,0 +1,10 @@
+XA3 - PORTALE + APP MOBILE V10 SULLO STESSO DOMINIO
+
+1. Apri il repository GitHub Pages di xa3xrp.net.
+2. Sostituisci soltanto index.html del portale con index.html di questa cartella.
+3. Carica l'intera cartella app/ nella STESSA cartella in cui e' presente index.html del portale.
+4. Non caricare index_portale_aggiornato.html (copia di sicurezza).
+5. Apri xa3xrp.net e nella sezione XA3 clicca INSTALLA APP XA3. Il link apre xa3xrp.net/app/ sullo stesso dominio; non e' un secondo sito ne un dominio da comprare.
+6. Su iPhone apri in Safari e usa Condividi > Aggiungi alla schermata Home (se disponibile, Apri come app).
+
+IMPORTANTE: il link funziona SOLO DOPO aver caricato anche la cartella app/; il solo index.html non contiene tutta la app. Una PWA non e' un file IPA e Safari non installa direttamente da un collegamento .zip o .ipa.
